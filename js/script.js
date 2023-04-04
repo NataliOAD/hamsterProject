@@ -9,7 +9,7 @@ console.log(ham+" "+ster+", "+cat);
 
 let anfisaKisa = {
        name: "Anfisa",
-       age: 17,
+       age: 82,
        color: "brown",
        socks: "white"
 };
